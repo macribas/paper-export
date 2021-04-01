@@ -3,10 +3,10 @@
 ## About
 Python script to export Paper Docs from a Dropbox account.
 It can export in either HTML or Markdown.
-It only works in accounts that have Paper In the FileSystem (PiFS). Script checks the account for that condition
+It only works in accounts that have Paper In the FileSystem (PiFS). Script checks the account for that condition.
 
 ## Usage
-1. Create an API Key. Needs to have files.content.read scope.
+1. [Create an app and generate an API Key](https://www.dropbox.com/developers/reference/getting-started?_tk=guides_lp&_ad=guides2&_camp=get_started#app%20console). Needs to have files.content.read scope.
 2. Replace <YOUR_API_KEY_HERE> by your API key
 3. [Install Python3](python.org/downloads/)
 4. Install the Python Dropbox SDK
