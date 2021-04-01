@@ -99,7 +99,3 @@ for paper_doc in paper_docs:
 		f.write(res.content)
 
 print("Export completed!")
-
-#dropbox.users.UserFeature.is_paper_as_files())
-#for entry in dbx.files_list_folder('').entries:
-#  print(entry.name)
