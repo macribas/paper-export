@@ -15,7 +15,7 @@ It only works in accounts that have Paper In the FileSystem (PiFS). Script check
 6. Follow the instructions on screen
 
 ## Files
-```paper.py - Contains all the code```
+```paper.py``` - Contains all the code  
 
 ## Disclaimer
 Dropbox does not maintain this script and is not responsible for it. This is meant for educational purposes only.
